@@ -1,0 +1,2 @@
+20|20|Player((9, 6))|65w7g13w8g11w9g11w9g11w9g12w8g12w8g13w7g14w6g167w|
+Fireball(breakable=True,durability=1) Bomb(breakable=False,durability=3) Potion(breakable=False,durability=30,heal=75)
